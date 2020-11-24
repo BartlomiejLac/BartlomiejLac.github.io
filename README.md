@@ -1,4 +1,4 @@
-**Hello** Nazywam się Bartłomiej Łaciak, witaj na mojej stronie!
+**Hello** :wave: Nazywam się Bartłomiej Łaciak, witaj na mojej stronie!
 
 Studiuję obecnie Informatykę i Systemy Inteligentne na Akademii Górniczo Hutniczej w Krakowie [link](https://www.agh.edu.pl).
 
