@@ -8,9 +8,6 @@ Pogłębiam swoją wiedzę w językach Python oraz C, tutaj przykładowy program
 #include<stdio.h>
 int main(void){
 int mx,my,k,l,w;
-char pl[3][3]={{' ',' ',' '},
-                {' ',' ',' '},
-                {' ',' ',' '}};
 while (ocena(pl)==0){
 wypisz(pl);
 best(pl,8,&mx,&my);
